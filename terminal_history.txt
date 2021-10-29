@@ -1,0 +1,959 @@
+   50  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   51  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   52  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   53  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   54  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   55  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   56  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   57  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   58  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+   59  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+   60  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+   61  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+   62  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+   63  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+   64  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   65  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   66  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   67  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   68  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   69  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   70  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   71  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   72  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   73  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   74  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   75  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   76  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   77  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   78  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   79  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   80  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   81  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   82  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   83  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   84  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   85  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+   86  /usr/local/bin/python3
+   87  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   88  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   89  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   90  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   91  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   92  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   93  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   94  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   95  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   96  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   97  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   98  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+   99  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  100  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  101  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  102  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  103  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  104  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  105  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  106  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  107  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  108  /usr/local/bin/python3
+  109  jupyter labs
+  110  jupyter_labs
+  111  run jupyter labs
+  112  run jupyter_labs
+  113  jupyter lab
+  114  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  115  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  116  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  117  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  118  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  119  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  120  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  121  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  122  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  123  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  124  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  125  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  126  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  127  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  128  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  129  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  130  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  131  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  132  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  133  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  134  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  135  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  136  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  137  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  138  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  139  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  140  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  141  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  142  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  143  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  144  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  145  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  146  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  147  /Users/anthonyz/Desktop/FinTech-Workspace/FinTech\ Apps/anaconda3/condabin/conda ; exit;
+  148  python csv-01.py
+  149  python csv-01.py
+  150  python csv-01.py
+  151  python csv-01.py
+  152  conda activate
+  153  conda activate
+  154  conda
+  155  python -V
+  156  conda
+  157  conda
+  158  cd
+  159  ls
+  160  /Applications/anaconda3/condabin/conda ; exit;
+  161  conda activate
+  162   /Applications/anaconda3/condabin/conda activate
+  163  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  164  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  165  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  166  conda activate
+  167  conda -V
+  168  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  169  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/02-Financial-Applications-Python/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  170  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/02_Activities/09_Stu_Loops/Solved/loops.py
+  171  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  172  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  173  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  174  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  175  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  176  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  177  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  178  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  179  clear
+  180  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  181  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  182  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  183  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  184  jupyter labs
+  185  jupyter lab
+  186  cd ../../..
+  187  ../..
+  188  cd ../..
+  189  ls
+  190  jupyter lab
+  191  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  192  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  193  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  194  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  195  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  196  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  197  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  198  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  199  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  200  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  201  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  202  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  203  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  204  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  205  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  206  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  207  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  208  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  209  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  210  /usr/local/bin/python3 /Users/anthonyz/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  211  cd Desktop
+  212  jupyter lab
+  213  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  214  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  215  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  216  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  217  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  218  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  219  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  220  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  221  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  222  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  223  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  224  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  225  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  226  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  227  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  228  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  229  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  230  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  231  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  232  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  233  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  234  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  235  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  236  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  237  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  238  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  239  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  240  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  241  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  242  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  243  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  244  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  245  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  246  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  247  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py
+  248  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/01-Financial-Programming-Python/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  249  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  250  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  251  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  252  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  253  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  254  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  255  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  256  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  257  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  258  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  259  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  260  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  261  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  262  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  263  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  264  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  265  python loan_analyzer.py
+  266  conda
+  267  conda activate
+  268  conda activate
+  269  conda
+  270  conda activate
+  271  conda init zsh
+  272  echo $SHELL
+  273  conda create -n dev python=3.7 anaconda
+  274  conda activate dev
+  275  echo ${SHELL}
+  276  conda init zsh
+  277  conda deactivate
+  278  conda activate
+  279  conda activate dev
+  280  cd
+  281  ls
+  282  cd desktop
+  283  ls
+  284  cd FinTech-Workspace
+  285  ls
+  286  cd C
+  287  cd Coursework
+  288  ls
+  289  cd  Mod_1
+  290  ls
+  291  cd 02
+  292  cd 02-Financial-Applications-Python
+  293  ls
+  294  cd class_1_activities
+  295  ls
+  296  cd ../..
+  297  cd ../..
+  298  cd ../..
+  299  cd Mod_1
+  300  ls
+  301  cd Desktop
+  302  cd FinTech-Workspace
+  303  cd Coursework
+  304  cd Mod_
+  305  cd Mod_1
+  306  cd 02-Financial-Applications-Python
+  307  ls
+  308  cd Class_1_Activities
+  309  ls
+  310  cd 01_Stu_Python_Code_Drills
+  311  ls
+  312  cd Unsolved
+  313  ls
+  314  cd 09-csv-01
+  315  ls
+  316  cd Unsolved
+  317  ls
+  318  python csv-01.py
+  319  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  320  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  321  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  322  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  323  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  324  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  325  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  326  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  327  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  328  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  329  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  330  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  331  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  332  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  333  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  334  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  335  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  336  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  337  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  338  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  339  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  340  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  341  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  342  pip -V
+  343  conda activate dev
+  344  pip -V
+  345  pip freeze
+  346  pip install fire
+  347  pip install questionary
+  348  close
+  349  conda deactivate dev
+  350  conda deactivate dev
+  351  exit
+  352  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  353  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  354  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  355  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  356  s/usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  357  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  358  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  359  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  360  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  361  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  362  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  363  conda activate dev
+  364  python app.py
+  365  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  366  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  367  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  368  conda dev
+  369  y
+  370  conda env
+  371  conda activate dev
+  372  python app.py
+  373  python app.py
+  374  python app.py
+  375  cd Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  376  ls
+  377  python app.py
+  378  python app.py
+  379  conda deactivate dev
+  380  conda deactivate
+  381  python app.py
+  382  python app.py
+  383  python app.py
+  384  conda activate dev
+  385  python app.py
+  386  clear
+  387  python app.py
+  388  pwd
+  389  python app.py
+  390  python app.py
+  391  conda deactivate
+  392  https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  393  https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  394  cd ../../..
+  395  cd ../../..
+  396  https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  397  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  398   /usr/bin/env /usr/local/bin/python3 /Users/anthonyz/.vscode/extensions/ms-python.python-2021.10.1336267007/pythonFiles/lib/python/debugpy/launcher 62793 -- /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  399   cd /Users/anthonyz/Desktop/FinTech-Workspace/Coursework ; /usr/bin/env /usr/local/bin/python3 /Users/anthonyz/.vscode/extensions/ms-python.python-2021.10.1336267007/pythonFiles/lib/python/debugpy/launcher 62819 -- /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  400  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  401  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  402  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  403  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  404  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Ex_02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  405  python app.py
+  406  conda activate dev
+  407  python app.py
+  408  python app.py
+  409  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application/app.py
+  410  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application/app.py
+  411  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application/app.py
+  412  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  413  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  414  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  415  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  416  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  417  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  418  pwd
+  419  pwd
+  420  ls
+  421  cd Desktop
+  422  pwd
+  423  ls
+  424  ls
+  425  mkdir test_folder
+  426  ls
+  427  rm test_folder
+  428  touch test_folder
+  429  ls
+  430  rm test_folder
+  431  rm -r
+  432  ls
+  433  cd test_folder
+  434  rm -r
+  435  cd ../..
+  436  ls
+  437  cd desktop
+  438  rm -i test_folder
+  439  rmdir test_folder
+  440  ls
+  441  grep ant
+  442  grep "ant"
+  443  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/10khrs/10khrs.py
+  444  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/cli.py
+  445  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/cli.py
+  446  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/cli.py
+  447  source /opt/anaconda3/bin/activate
+  448  conda activate base
+  449  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/cli.py
+  450  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  451  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  452  source /opt/anaconda3/bin/activate
+  453  conda activate base
+  454  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  455  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  456  source /opt/anaconda3/bin/activate
+  457  conda activate base
+  458  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  459  source /opt/anaconda3/bin/activate
+  460  conda activate base
+  461  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  462  /usr/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  463  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  464  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  465  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  466  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  467  source /opt/anaconda3/bin/activate
+  468  conda activate base
+  469  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  470  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  471  source /opt/anaconda3/bin/activate
+  472  conda activate dev
+  473  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  474  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  475  source /opt/anaconda3/bin/activate
+  476  conda activate dev
+  477  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  478  source /opt/anaconda3/bin/activate
+  479  conda activate dev
+  480  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  481  source /opt/anaconda3/bin/activate
+  482  conda activate base
+  483  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  484  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  485  python app.py --credit_score=750
+  486  conda activate dev
+  487  python app.py --credit_score=750
+  488  python app.py --credit_score=750
+  489  source /opt/anaconda3/bin/activate
+  490  conda activate dev
+  491  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  492  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  493  python app.py --credit_score=750
+  494  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  495  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fir
+  496  python app.py --credit_score=750
+  497  conda activate dev
+  498  python app.py
+  499  python app.py --credit_score=750 --debt=5000 --income=20000
+  500  conda activate dev
+  501  python app.py --credit_score=750 --debt=5000 ==income=60000
+  502  python app.py --credit_score=750 --debt=5000 ==income=6000
+  503  python app.py --credit_score=750 --debt=5000 =income=6000
+  504  python app.py --credit_score=750 --debt=5000
+  505  python app.py --credit_score=750 --debt=5000
+  506  python app.py --credit_score=750 --debt=5000
+  507  python app.py --credit_score=750 --debt=5000 --income=45000
+  508  python app.py --credit_score=750 --debt=5000 --income=45000
+  509  python app.py --credit_score=750 --debt=5000 --income=50000
+  510  /usr/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  511  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  512  python app.py --credit_score=750
+  513  python app.py --credit_score=750
+  514  conda activate dev
+  515  python app.py --credit_score=750
+  516  conda --version
+  517  python -m ipykernel install --user --name dev
+  518  conda install -c conda-forge nodejs
+  519  conda --version
+  520  conda update conda
+  521  conda create -n dev python=3.7 anaconda
+  522  conda --version
+  523  conda activate dev
+  524  python -m ipykernel install --user --name dev
+  525  conda install -c conda-forge nodejs
+  526  conda deactivate
+  527  source /opt/anaconda3/bin/activate
+  528  conda activate dev
+  529  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  530  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  531  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  532  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  533  source /opt/anaconda3/bin/activate
+  534  conda activate dev
+  535  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  536  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  537  source /opt/anaconda3/bin/activate
+  538  conda activate dev
+  539  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  540  conda activate dev
+  541  conda deactive
+  542  y
+  543  conda deactivate
+  544  pip install fire
+  545  ls
+  546  cd desktop
+  547  git clone https://gitlab.com/gitlab-test/sample-project.git
+  548  git clone https://gitlab.com/gitlab-tests/sample-project.git
+  549  ls
+  550  cd sample-project
+  551  git init
+  552  cd ../..
+  553  cd desktop
+  554  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  555  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git/
+  556  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git/
+  557  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git/
+  558  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  559  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  560  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  561  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  562  ls
+  563  cd ucb-virt-fin-pt-09-2021-u-b
+  564  git pull
+  565  python cli.py
+  566  python cli.py
+  567  python cli.py
+  568  python cli.py
+  569  python cli.py
+  570  python cli.py
+  571  python cli.py
+  572  python cli.py
+  573  python cli.py
+  574  python cli.py
+  575  python cli.py
+  576  python cli.py
+  577  python cli.py
+  578  python cli.py
+  579  python cli.py
+  580  python cli.py
+  581  python cli.py
+  582  python cli.py
+  583  python cli.py
+  584  python cli.py
+  585  python cli.py
+  586  python cli.py
+  587  python cli.py
+  588  python cli.py
+  589  python cli.py
+  590  python cli.py
+  591  python cli.py
+  592  python cli.py
+  593  python cli.py
+  594  python cli.py
+  595  python cli.py
+  596  python cli.py
+  597  python cli.py
+  598  python cli.py
+  599  python cli.py
+  600  python cli.py
+  601  python cli.py
+  602  python cli.py
+  603  python cli.py
+  604  python cli.py
+  605  python cli.py
+  606  python cli.py
+  607  python cli.py
+  608  python cli.py
+  609  python cli.py
+  610  python cli.py
+  611  python cli.py
+  612  python cli.py
+  613  python cli.py
+  614  python cli.py
+  615  python cli.py
+  616  python cli.py
+  617  python cli.py
+  618  python cli.py
+  619  python cli.py
+  620  python cli.py
+  621  python cli.py
+  622  python cli.py
+  623  python cli.py
+  624  python cli.py
+  625  python cli.py
+  626  python cli.py
+  627  python cli.py
+  628  python cli.py
+  629  python cli.py
+  630  python cli.py
+  631  python cli.py
+  632  python cli.py
+  633  python cli.py
+  634  python cli.py
+  635  python cli.py
+  636  python cli.py
+  637  python cli.py
+  638  python cli.py
+  639  python cli.py
+  640  python cli.py
+  641  python cli.py
+  642  python cli.py
+  643  python cli.py
+  644  python cli.py pants=true
+  645  python cli.py --pants=True
+  646  python cli.py --pants=True
+  647  python cli.py --pants=True
+  648  python cli.py --pants=True
+  649  python cli.py --pants=True
+  650  python cli.py --pants=True
+  651  python cli.py --pants=True
+  652  python cli.py --pants=True
+  653  python cli.py --pants=True
+  654  python cli.py --pants=True
+  655  python cli.py --pants=True
+  656  python cli.py --pants=True
+  657  python cli.py --pants=True
+  658  python cli.py --pants=True
+  659  python cli.py --pants=True
+  660  python cli.py --pants=True
+  661  python cli.py --pants=True
+  662  python cli.py --pants=True
+  663  python cli.py --pants=True
+  664  python cli.py --pants=True
+  665  python cli.py --pants=True
+  666  python cli.py --pants=True
+  667  python cli.py --pants=True
+  668  python cli.py --pants=True
+  669  python cli.py --pants=True
+  670  python cli.py --pants=True
+  671  python cli.py --pants=True
+  672  python cli.py --pants=True
+  673  python cli.py --pants=True
+  674  python cli.py --pants=True
+  675  python cli.py --pants=True
+  676  source /opt/anaconda3/bin/activate
+  677  conda activate dev
+  678  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  679  /Applications/Python\ 3.9/Install\ Certificates.command ; exit;
+  680  source /opt/anaconda3/bin/activate
+  681  conda activate base
+  682  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  683  python app.py --credit_score=750
+  684  python app.py --credit_score=750 --debt=5000 --income=20000
+  685  conda -v
+  686  conda -version
+  687  conda --version
+  688  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  689  source /opt/anaconda3/bin/activate
+  690  conda activate base
+  691  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  692  python app.py --credit_score=750 --debt=5000 --income=20000\n
+  693  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  694  conda activate dev
+  695  python app.py --credit_score=750 --debt=5000 --income=20000
+  696  conda dectivate
+  697  y
+  698  conda deactivate
+  699  Solved % python app.py --credit_score=750 --debt=5000 --income=20000
+  700  python app.py --credit_score=750 --debt=5000 --income=20000\n
+  701  conda activate dev
+  702  python app.py
+  703  python app.py
+  704  list
+  705  conda list
+  706  conda update
+  707  conda update --prefix /opt/anaconda3/envs/dev anaconda\n\n
+  708  conda list
+  709  python list
+  710  list
+  711  source activate /opt/anaconda3/envs/dev
+  712  /opt/anaconda3/envs/dev/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  713  python app.py --credit_score=750 --debt=5000 --income=2000
+  714  conda activate dev
+  715  conda activate dev
+  716  python app.py --credit_score=750 --debt=5000 --income=20000
+  717  clear
+  718  python app.py --credit_score=750 --debt=5000 --income=20000
+  719  python app.py --credit_score=750 --debt=5000
+  720  python app.py --credit_score=750 --debt=5000
+  721  source /opt/anaconda3/bin/activate
+  722  conda activate /opt/anaconda3
+  723  /opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  724  /usr/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Pers/cli.py
+  725  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/dialog.py
+  726  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/dialog.py
+  727  python app.py --credit_score=750 --debt=5000 --income=20000
+  728  python app.py
+  729  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  730  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/.ipynb_checkpoints/loan_analyzer-checkpoint.py
+  731  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_1/Starter_Code/loan_analyzer.py
+  732  python dialog.py
+  733  python app.py
+  734  python app.py
+  735  python app.py
+  736  python app.py
+  737  python app.py
+  738  python app.py --credit_score=750 --debt=5000 --income=20000
+  739  git config --global user.name <Anthony Zamora>
+  740  git config --global user.name <Anthony Zamora>
+  741  git config --global user.name <AntZam1776>
+  742  git config --global user.name AntZam1776
+  743  git config --global user.name freshfarm99@gmail.com
+  744  git config --list
+  745  git clone https://github.com/AntZam1776/module_review.git
+  746  git statue
+  747  git status
+  748  ls
+  749  cd desktop
+  750  git clone https://github.com/AntZam1776/module_review.git
+  751  git status
+  752  ls
+  753  cd module_review
+  754  git status
+  755  git add readme.md
+  756  git status
+  757  git add README.md
+  758  git status
+  759  touch new_file.txt
+  760  ls
+  761  git add new_file.txt
+  762  git status
+  763  git commit -m "Editied README.md and added txt file"
+  764  git status
+  765  git push
+  766  git push
+  767  git push
+  768  git push
+  769  git pull
+  770  git status
+  771  git pull
+  772  git push
+  773  git status
+  774  git commit
+  775  git push
+  776  git status
+  777  git push
+  778  git commit -a
+  779  cd /Users/anthonyz/Desktop
+  780  cd module_review
+  781  git pull
+  782  git push
+  783  git status
+  784  git push
+  785  git add <file>
+  786  git add Github_Upload/module_2/
+  787  git status
+  788  git commit
+  789  git status
+  790  cd desk
+  791  ls
+  792  cd Desktop
+  793  cd module_review
+  794  git status
+  795  git commit
+  796  git pull
+  797  git push
+  798  code .
+  799  code
+  800  vs code .
+  801  vs code
+  802  git status
+  803  git commmit
+  804  git commit
+  805  cd Desktop
+  806  cd module_review
+  807  git status
+  808  git push
+  809  git pull
+  810  git config
+  811  git config --system
+  812  git status
+  813  git add Github_Upload/module_2/module_2.md
+  814  git push
+  815  git status
+  816  git pull
+  817  git status
+  818  /usr/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  819  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  820  pip list
+  821  pip list
+  822  pip show fire
+  823  pip install questionary
+  824  conda activate dev
+  825  pip install questionary
+  826  conda --version
+  827  conda update conda
+  828  conda update anaconda
+  829  pwd
+  830  conda create -n dev python=3.7 anaconda
+  831  conda activate dev
+  832  conda init zsh
+  833  python -m ipykernel install --user --name dev
+  834  conda install -c conda-forge nodejs
+  835  conda deactivate
+  836  pip install fire
+  837  conda activate dev
+  838  pip install fire
+  839  conda activate anaconda
+  840  conda info --envs
+  841  pip install pathlib
+  842  conda deactivate
+  843  pip install pathlib
+  844  cd /Users/anthonyz/Desktop
+  845  cd module_
+  846  cd module_review/
+  847  ls
+  848  git pull
+  849  cd ../..
+  850  ls
+  851  cd desk
+  852  cd Desktop
+  853  ls
+  854  git clone https://github.com/AntZam1776/FinTech_Data_Points.git
+  855  which python
+  856  conda activate dev
+  857  which python
+  858  python -V
+  859  conda deactivate
+  860  python -V
+  861  conda actiave dev
+  862  conda activate dev
+  863  pip install fire
+  864  pip show fire
+  865  python app.py --credit_score=750 --debt=5000 --income=20000
+  866  python app.py --credit_score=750 --debt=5000 --income=20000
+  867  python app.py --credit_score=750 --debt=5000 --income=20000
+  868  python app.py --credit_score=750 --debt=5000 --income=20000
+  869  conda activate devv
+  870  conda activate dev
+  871  python app.py --credit_score=750 --debt=5000 --income=20000
+  872  python app.py --credit_score=750 --debt=5000 --income=20000
+  873  pip install path
+  874  conda deactivate
+  875  pip install path
+  876  /usr/bin/python3 ; exit;
+  877  /usr/local/bin/python3 /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  878  conda deactivate
+  879  python -V
+  880  cd bin
+  881  ls al
+  882  ls -al
+  883  cd opt
+  884  ls
+  885  cd /usr
+  886  ls
+  887  cd bin
+  888  ls
+  889  python3 -V
+  890  python3 -m pip install fire
+  891  python3 -m pip install --upgrade pip
+  892  python3 app.py
+  893  python app.py
+  894  source /Users/anthonyz/opt/anaconda3/bin/activate
+  895  conda activate base
+  896  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  897  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  898  python app.py --credit_score=500 --debt=5000 --income=40000
+  899  python -V
+  900  conda activate dev
+  901  python -v
+  902  python -V
+  903  pip -V
+  904  pip install --upgrade pip
+  905  clear
+  906  cd ../../..
+  907  cd ../..
+  908  ls
+  909  cd FinTech
+  910  cd FinTech_Data_Points
+  911  code .
+  912  code .
+  913  git config
+  914  git confid --global
+  915  git config --global user.name "AntZam1776"
+  916  git config --global user.email "freshfarm99@gmail.com"
+  917  git push
+  918  source /Users/anthonyz/opt/anaconda3/bin/activate
+  919  conda activate base
+  920  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  921  loan_qualifier_app/data/daily_rate_sheet.csv
+  922  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  923  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  924  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  925  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  926  jupyter labs
+  927  jupyter lab
+  928  source /Users/anthonyz/opt/anaconda3/bin/activate
+  929  conda activate base
+  930  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  931  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/EX_02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  932  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  933  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  934  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  935  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  936  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  937  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  938  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  939  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  940  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  941  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  942  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  943  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  944  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  945  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  946  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  947  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  948  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  949  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  950  ls
+  951  cd desktop
+  952  ls
+  953  cd ucb
+  954  cd ucb-virt-fin-pt-09-2021-u-b
+  955  gitlab pull
+  956  git pull
+  957  gitlab config
+  958  gitlab -v
+  959  git pull
+  960  conda activate dev
+  961  jupyter labv
+  962  jupyter lab
+  963  source /Users/anthonyz/opt/anaconda3/bin/activate
+  964  conda activate base
+  965  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  966  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  967  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  968  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  969  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  970  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  971  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  972  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  973  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  974  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  975  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  976  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  977  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  978  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  979  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  980  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  981  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  982  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  983  loan_qualifier_app/data/daily_r/Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  984  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  985  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  986  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  987  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  988  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  989  /Users/anthonyz/opt/anaconda3/bin/python /Users/anthonyz/Desktop/FinTech-Workspace/Coursework/Mod_2/Starter_Code/loan_qualifier_app/app.py
+  990  fire status
+  991  fire config
+  992  conda actiave dev
+  993  conda activate dev
+  994  fire status
+  995  python fire status
+  996  conda status
+  997  conda config
+  998  anaconda status
+  999  anaconda config
+ 1000  conda list
+ 1001  cd desktop
+ 1002  git clone https://github.com/AntZam1776/loan_qual_app.git
+ 1003  ls
+ 1004  cd loan_qual_app
+ 1005  git commit
+ 1006  ls
+ 1007  history 50 > terminal_history.txt
+ 1008  history 50 > terminal_history.txt
