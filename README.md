@@ -1,4 +1,4 @@
-# Project Title
+# Loan Qualifier App
 
 This is a loan qualifier application which will quickly sort and create a list of qualified loans offered by a pool of banks and deliver that list to a directory of the clients choosing.  This is done by having a client quickly enter the perspective loanees credit score, monthly debt, total monthly income, the desired loan amount, and equity (home value); which is then calculated and derives a result of the amount of loans offered, then list them into a csv file.
 
